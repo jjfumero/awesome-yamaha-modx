@@ -1,6 +1,6 @@
 # Yamaha MODX - Resources
 
-This repo contains a list of resources I have found very useful to start with the Yamaha MODX and smooth the learning curve for the Yamaha MODX. 
+This repo contains a list of resources I have found very useful to start with the Yamaha MODX and smooth the learning curve for creating new sounds.
 
 Feel free to contribute, share and have fun! 
 
