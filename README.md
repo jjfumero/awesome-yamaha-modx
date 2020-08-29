@@ -15,6 +15,7 @@ Feel free to contribute, share and have fun!
 6. [How to start with the FM-X engine](https://www.youtube.com/watch?v=aWgvag_7DkI)
 7. [Introduction to the AWM2 Engine](https://www.youtube.com/watch?v=qAHjgDSqhFg)
 8. [Create a warm, lush FM PAD](https://www.youtube.com/watch?v=ZsAlC5lAHAE)
+9. [Create a Dreamy Ambient FM Pluck](https://www.youtube.com/watch?v=hQCO-FhZ14M)
 
 
 ## OS Updates
