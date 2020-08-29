@@ -46,8 +46,8 @@ Feel free to contribute, share and have fun!
 
 1) User files vs user libraries
 
-- User files reset the piano (performances, etc)
-- User libraries adds a new library to the Modx (up to 1GB) without resetting the current parameters
+- User files reset the piano (performances, etc.)
+- User libraries add a new library to the Modx (up to 1GB) without resetting the current parameters
 
 
 ### License
