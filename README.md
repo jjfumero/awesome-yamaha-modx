@@ -2,9 +2,9 @@
 
 This repo contains a list of resources I have found very useful to start with the Yamaha MODX and smooth the learning curve for creating new sounds.
 
-Feel free to contribute, share and have fun! 
+Feel free to contribute and share. Have fun! 
 
-## MODX
+## Yamaha MODX Introduction 
 
 1. [Unboxing and main features](https://www.youtube.com/watch?v=01jyFy3jfJ4)
 2. [Introduction](https://www.youtube.com/watch?v=Tv4wFSK-_AE)
@@ -25,7 +25,12 @@ Feel free to contribute, share and have fun!
   * [Smart Morph in Action](https://www.youtube.com/watch?v=Hd3aCDutC5s)
 
 
-## CUBASE
+## Mastering MODX
+
+* [Mastering MODX Articles Series by Yamaha](https://yamahasynth.com/learn/modx/mastering-modx-article-series-music-synthesizer)
+
+
+## CUBASE and DAW
 
 * [Step by step process of how to connect the MODX with CUBASE](https://www.youtube.com/watch?v=ZPPJeU9Ayy4)
 * [MOX and CUBASE setup](https://yamahasynth.com/modx-category/mastering-modx) 
@@ -43,12 +48,12 @@ Feel free to contribute, share and have fun!
 * [FAQ by Yamaha](https://usa.yamaha.com/products/music_production/synthesizers/modx/faq.html#product-tabs)
 
 
-## Notes
+## Important Notes
 
-1) User files vs user libraries
+1) **User files** vs **user libraries**
 
 - User files reset the piano (performances, etc.)
-- User libraries add a new library to the Modx (up to 1GB) without resetting the current parameters
+- User libraries add new libraries to the Modx (of up to 1GB) without resetting the current parameters and settings
 
 
 ### License
